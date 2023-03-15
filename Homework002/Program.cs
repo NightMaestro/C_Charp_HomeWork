@@ -72,3 +72,4 @@ switch (day)
         Console.WriteLine("Введено не коректное число");
         break;
 }
+System.Console.WriteLine();

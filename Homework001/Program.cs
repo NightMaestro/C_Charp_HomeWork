@@ -63,7 +63,7 @@
 // int n = int.Parse(Console.ReadLine()!);
 // Console.Write("Ряд чисел: ");
 // int count = 2;
-// while (count<n)
+// while (count<=n)
 // {
 //    Console.Write($"{count} ");
 //    count +=2;
